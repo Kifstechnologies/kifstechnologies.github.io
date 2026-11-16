@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.echo.digitaltwin",
+      "sha256_cert_fingerprints": [
+        "1D:B3:6E:59:69:FC:06:46:2B:0D:54:E2:83:CA:A7:D2:47:B0:F3:17:FE:0E:72:C4:76:A5:0C:6E:1C:21:55:ED"
+      ]
+    }
+  }
+]
